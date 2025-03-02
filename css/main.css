@@ -800,3 +800,28 @@ footer {
 .img-grayscale {
   margin: 20px; /* Ajusta el valor para el espacio entre las imágenes */
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Estilo para el texto de derechos reservados */ p { position: fixed; /* Fija el texto en la pantalla */ top: 0; /* Lo coloca en la parte superior */ left: 0; /* Alineado a la izquierda */ width: 100%; /* Asegura que ocupe todo el ancho de la pantalla */ background-color: white;/* Fondo blanco para que el texto sea legible */ text-align: center; /* Centra el texto */ z-index: 1000; /* Asegura que el texto esté por encima de otros elementos */ margin: 0; /* Elimina márgenes por defecto */ padding: 10px; /* Espaciado para que el texto no esté pegado al borde */ } 
